@@ -352,7 +352,7 @@ main{
     display: flex;
     margin-left: 30%;
     margin-right: 30%;
-    margin-top: 10%; /* Alinha os itens horizontalmente no início */
+    margin-top: 10%;
     font-style: italic;  
     font-size: larger;
     color: white; 
